@@ -4,5 +4,5 @@
   [WhisperTraductor](https://github.com/amillanaol/WhisperTraductor)
   
 - 🌱 I’m currently learning ...
-  -About Rust
+  - I'm learning backend technologies like Rust.
 
