@@ -9,7 +9,7 @@ Estoy trabajando en soluciones eficientes y profundizando en DevOps (Docker, Kub
 
 ### 🏗 En Desarrollo
 - **[Chatbot DevOps Pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
-- - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas DAX
+- **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas DAX
 
 ### 🌱 Aprendizaje Actual
 Actualmente profundizo en el desarrollo backend con **Rust** a través de ejercicios prácticos como [rustlings_exercises](https://github.com/amillanaol/rustlings_exercises).
