@@ -1,6 +1,6 @@
 # Hola👋
 
-Estoy trabajando en soluciones eficientes y profundizando en DevOps (Docker, Kubernetes, CI/CD, Ansible, Terraform).
+Estoy trabajando en soluciones eficientes y profundizando en DevOps (Docker, Kubernetes, Ansible, Terraform, CI/CD).
 
 ### ✨ Soluciones propias
 - **[WhisperTranslator](https://github.com/amillanaol/WhisperTranslator)**: Herramienta para traducción automática de multimedia utilizando Whisper.
