@@ -1,4 +1,4 @@
-# Hola, soy Alexis 👋
+# Hola👋
 
 Desarrollador enfocado en soluciones eficientes. Actualmente profundizando en DevOps (Docker, Kubernetes, CI/CD, Ansible, Terraform.
 
