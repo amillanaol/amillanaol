@@ -13,6 +13,3 @@ Desarrollador enfocado en soluciones eficientes. Actualmente profundizando en De
 ### 🌱 Aprendizaje Actual
 Actualmente profundizo en el desarrollo backend con **Rust** a través de ejercicios prácticos como [rustlings_exercises](https://github.com/amillanaol/rustlings_exercises).
 
----
-### 📊 Mis Estadísticas de GitHub
-![Estadísticas de amillanaol](https://github-readme-stats.vercel.app/api?username=amillanaol&show_icons=true&theme=radical)
