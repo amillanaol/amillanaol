@@ -1,11 +1,18 @@
-### Hi there 👋
+# Hola, soy Alexis 👋
 
-- 🔭 I’m currently working on ...
-  - [amillanaol/WhisperTranslator](https://github.com/amillanaol/WhisperTranslator)
-  - [amillanaol/InteractiveGitVersioneer](https://github.com/amillanaol/interactive-git-versioneer)
-  - [amillanaol/node-webhook-receiver](https://github.com/amillanaol/node-webhook-receiver)
-  - [amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)
-  
-- 🌱 I’m currently learning ...
-  - I'm learning backend technologies like Rust. See [amillanaol/rustlings_exercises](https://github.com/amillanaol/rustlings_exercises)
+Desarrollador enfocado en soluciones eficientes. Actualmente profundizando en DevOps (Docker, Kubernetes, CI/CD, Ansible, Terraform.
 
+### 🚀 Proyectos Destacados
+- **[WhisperTranslator](https://github.com/amillanaol/WhisperTranslator)**: Herramienta para traducción automática de multimedia utilizando Whisper.
+- **[InteractiveGitVersioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git.
+- **[Node Webhook Receiver](https://github.com/amillanaol/node-webhook-receiver)**: Receptor de eventos para integraciones ágiles.
+
+### 🏗 En Desarrollo
+- **[Chatbot DevOps Pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Integración de IA en flujos de CI/CD.
+
+### 🌱 Aprendizaje Actual
+Actualmente profundizo en el desarrollo backend con **Rust** a través de ejercicios prácticos como [rustlings_exercises](https://github.com/amillanaol/rustlings_exercises).
+
+---
+### 📊 Mis Estadísticas de GitHub
+![Estadísticas de amillanaol](https://github-readme-stats.vercel.app/api?username=amillanaol&show_icons=true&theme=radical)
