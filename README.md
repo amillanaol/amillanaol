@@ -17,7 +17,9 @@ Me encuentro profundizando en DevOps (Docker, Kubernetes, Ansible, Terraform, CI
 ## 📬 Feedback Welcome!
 
 [ES] ¡Acepto ideas, correcciones y sugerencias! Tu aporte me ayuda a mejorar.
+
 [BR] Aceito ideias, correções e feedback. Sua contribuição me ajuda a melhorar!
+
 [EN] I welcome any ideas, corrections, or feedback. Your input helps me improve!
 
 ---
