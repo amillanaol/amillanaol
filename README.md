@@ -11,8 +11,7 @@ Estoy trabajando en soluciones eficientes, mi fuerte es el desarrollo backend.
 - **[amillanaol/Chatbot DevOps Pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
 
-### 🌱 En aprendizaje
-Me encuentro profundizando en DevOps (Docker, Kubernetes, Ansible, Terraform, CI/CD)..
+---
 
 ## 📬 Feedback Welcome!
 
