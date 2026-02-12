@@ -12,7 +12,7 @@ Estoy trabajando en soluciones eficientes
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
 
 ### 🌱 En aprendizaje
-Actualmente profundizo en el desarrollo backend y profundizando en DevOps (Docker, Kubernetes, Ansible, Terraform, CI/CD)..
+Actualmente mi fuerte es el desarrollo backend y me encuentro profundizando en DevOps (Docker, Kubernetes, Ansible, Terraform, CI/CD)..
 
 ## 📬 Feedback Welcome!
 
