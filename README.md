@@ -1,6 +1,6 @@
 # Hola👋
 
-Estoy trabajando en soluciones eficientes
+Estoy trabajando en soluciones eficientes, mi fuerte es el desarrollo backend. 
 
 ### ✨ Soluciones propias
 - **[amillanaol/WhisperTranslator](https://github.com/amillanaol/WhisperTranslator)**: Herramienta para traducción automática de multimedia utilizando Whisper.
@@ -12,7 +12,7 @@ Estoy trabajando en soluciones eficientes
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
 
 ### 🌱 En aprendizaje
-Actualmente mi fuerte es el desarrollo backend y me encuentro profundizando en DevOps (Docker, Kubernetes, Ansible, Terraform, CI/CD)..
+Me encuentro profundizando en DevOps (Docker, Kubernetes, Ansible, Terraform, CI/CD)..
 
 ## 📬 Feedback Welcome!
 
