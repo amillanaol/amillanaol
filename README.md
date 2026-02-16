@@ -1,6 +1,6 @@
 # Hola👋
 
-Estoy trabajando en soluciones eficientes, mi fuerte es el desarrollo backend. 
+Estoy trabajando en soluciones eficientes. 
 
 ### ✨ Soluciones propias
 - **[amillanaol/WhisperTranslator](https://github.com/amillanaol/WhisperTranslator)**: Herramienta para traducción automática de multimedia utilizando Whisper.
