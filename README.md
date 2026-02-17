@@ -3,7 +3,7 @@
 Estoy trabajando en soluciones eficientes. 
 
 ### ✨ Soluciones propias
-- **[amillanaol/WhisperTranslator](https://github.com/amillanaol/WhisperTranslator)**: Herramienta para traducción automática de multimedia utilizando Whisper.
+- **[amillanaol/whisper-translator](https://github.com/amillanaol/whisper-translator)**: Herramienta para traducción automática de multimedia utilizando Whisper.
 - **[amillanaol/interactive-git-versioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git.
 - **[amillanaol/node-webhook-receiver](https://github.com/amillanaol/node-webhook-receiver)**: Receptor de eventos para integraciones ágiles.
 
