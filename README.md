@@ -7,6 +7,8 @@ Estoy trabajando en soluciones eficientes.
 - **[amillanaol/interactive-git-versioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git.
 - **[amillanaol/node-webhook-receiver](https://github.com/amillanaol/node-webhook-receiver)**: Receptor de eventos para integraciones ágiles.
 - **[amillanaol/python-fastapi-showcase](https://github.com/amillanaol/python-fastapi-showcase)**: API REST con FastAPI, Arquitectura Limpia y DDD. Diseño en capas, Docker, migraciones de Alembic y pruebas estructuradas.
+- **[amillanaol/python-django-pipeline-tracker](https://github.com/amillanaol/python-django-pipeline-tracker)**: Dashboard creado en Python/Django para rastrear ejecuciones de pipelines CI/CD y vulnerabilidades de seguridad.
+
 
 ### 🏗 En Desarrollo
 - **[amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
