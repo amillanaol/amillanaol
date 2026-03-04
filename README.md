@@ -1,8 +1,4 @@
-# Hola👋
-
-Estoy trabajando en soluciones eficientes. 
-
-### ✨ Soluciones propias
+## ✨ Soluciones propias
 - **[amillanaol/whisper-translator](https://github.com/amillanaol/whisper-translator)**: Herramienta para traducción automática de multimedia utilizando Whisper.
 - **[amillanaol/interactive-git-versioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git.
 - **[amillanaol/node-webhook-receiver](https://github.com/amillanaol/node-webhook-receiver)**: Receptor de eventos para integraciones ágiles.
@@ -10,7 +6,7 @@ Estoy trabajando en soluciones eficientes.
 - **[amillanaol/python-django-pipeline-tracker](https://github.com/amillanaol/python-django-pipeline-tracker)**: Dashboard creado en Python/Django para rastrear ejecuciones de pipelines CI/CD y vulnerabilidades de seguridad.
 
 
-### 🏗 En Desarrollo
+## 🏗 En Desarrollo
 - **[amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
 - **[amillanaol/workflows-n8n-kits-json_automatizaciones](https://github.com/amillanaol/workflows-n8n-kits-json_automatizaciones)**: Plantillas N8N Workflows
