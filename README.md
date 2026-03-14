@@ -10,6 +10,8 @@
 - **[amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
 - **[amillanaol/workflows-n8n-kits-json_automatizaciones](https://github.com/amillanaol/workflows-n8n-kits-json_automatizaciones)**: Plantillas N8N Workflows
+- **[amillanaol/flask-inventory-api)]([https://github.com/amillanaol/workflows-n8n-kits-json_automatizaciones](https://github.com/amillanaol/flask-inventory-api))**: Sistema de gestión de inventario desarrollado con Flask, PostgreSQL y Bootstrap 5.
+
 ---
 
 ## 📬 Feedback Welcome!
