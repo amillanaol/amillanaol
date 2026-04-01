@@ -5,7 +5,7 @@
 - **[amillanaol/python-fastapi-showcase](https://github.com/amillanaol/python-fastapi-showcase)**: API REST con FastAPI, Arquitectura Limpia y DDD. Diseño en capas, Docker, migraciones de Alembic y pruebas estructuradas.
 - **[amillanaol/python-django-pipeline-tracker](https://github.com/amillanaol/python-django-pipeline-tracker)**: Dashboard creado en Python/Django para rastrear ejecuciones de pipelines CI/CD y vulnerabilidades de seguridad.
 - **[amillanaol/NextSpringTracker](https://github.com/amillanaol/NextSpringTracker)**: Full-stack task management app built with Next.js 14, React, Java Spring Boot and PostgreSQL. Features JWT authentication, CRUD operations and responsive UI.
-- - **[amillanaol/flask-inventory-api](https://github.com/amillanaol/flask-inventory-api)**: Sistema de gestión de inventario desarrollado con Flask, PostgreSQL y Bootstrap 5.
+- **[amillanaol/flask-inventory-api](https://github.com/amillanaol/flask-inventory-api)**: Sistema de gestión de inventario desarrollado con Flask, PostgreSQL y Bootstrap 5.
 
 ## 🏗 En Desarrollo
 
