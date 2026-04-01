@@ -13,7 +13,7 @@
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
 - **[amillanaol/workflows-n8n-kits-json_automatizaciones](https://github.com/amillanaol/workflows-n8n-kits-json_automatizaciones)**: Plantillas N8N Workflows
 - **[amillanaol/node-projects-toolkit](https://github.com/amillanaol/node-projects-toolkit)**: Referencia práctica de patrones backend en Node.js — desde Express hasta TypeScript e integraciones con MongoDB — con base en experiencia de implementación real.
-- - **[amillanaol/b2b-nestjs-matching_microservices_playground](https://github.com/amillanaol/b2b-nestjs-matching_microservices_playground)**: NestJS monorepo implementing a B2B matching platform using Clean Architecture + DDD + Hexagonal (ports & adapters). Four independent TCP microservices: API Gateway, Auth, Companies, and Matching with Redis cache.
+- **[amillanaol/b2b-nestjs-matching_microservices_playground](https://github.com/amillanaol/b2b-nestjs-matching_microservices_playground)**: NestJS monorepo implementing a B2B matching platform using Clean Architecture + DDD + Hexagonal (ports & adapters). Four independent TCP microservices: API Gateway, Auth, Companies, and Matching with Redis cache.
 
 ---
 
