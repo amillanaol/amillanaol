@@ -5,15 +5,15 @@
 - **[amillanaol/python-fastapi-showcase](https://github.com/amillanaol/python-fastapi-showcase)**: API REST con FastAPI, Arquitectura Limpia y DDD. Diseño en capas, Docker, migraciones de Alembic y pruebas estructuradas.
 - **[amillanaol/python-django-pipeline-tracker](https://github.com/amillanaol/python-django-pipeline-tracker)**: Dashboard creado en Python/Django para rastrear ejecuciones de pipelines CI/CD y vulnerabilidades de seguridad.
 - **[amillanaol/NextSpringTracker](https://github.com/amillanaol/NextSpringTracker)**: Full-stack task management app built with Next.js 14, React, Java Spring Boot and PostgreSQL. Features JWT authentication, CRUD operations and responsive UI.
-- **[amillanaol/b2b-nestjs-matching_microservices_playground](https://github.com/amillanaol/b2b-nestjs-matching_microservices_playground)**: NestJS monorepo implementing a B2B matching platform using Clean Architecture + DDD + Hexagonal (ports & adapters). Four independent TCP microservices: API Gateway, Auth, Companies, and Matching with Redis cache.
+- - **[amillanaol/flask-inventory-api](https://github.com/amillanaol/flask-inventory-api)**: Sistema de gestión de inventario desarrollado con Flask, PostgreSQL y Bootstrap 5.
 
 ## 🏗 En Desarrollo
 
 - **[amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
 - **[amillanaol/workflows-n8n-kits-json_automatizaciones](https://github.com/amillanaol/workflows-n8n-kits-json_automatizaciones)**: Plantillas N8N Workflows
-- **[amillanaol/flask-inventory-api](https://github.com/amillanaol/flask-inventory-api)**: Sistema de gestión de inventario desarrollado con Flask, PostgreSQL y Bootstrap 5.
 - **[amillanaol/node-projects-toolkit](https://github.com/amillanaol/node-projects-toolkit)**: Referencia práctica de patrones backend en Node.js — desde Express hasta TypeScript e integraciones con MongoDB — con base en experiencia de implementación real.
+- - **[amillanaol/b2b-nestjs-matching_microservices_playground](https://github.com/amillanaol/b2b-nestjs-matching_microservices_playground)**: NestJS monorepo implementing a B2B matching platform using Clean Architecture + DDD + Hexagonal (ports & adapters). Four independent TCP microservices: API Gateway, Auth, Companies, and Matching with Redis cache.
 
 ---
 
