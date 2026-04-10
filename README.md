@@ -9,6 +9,7 @@
 
 ## 🏗 En Desarrollo
 
+- **[amillanaol/laravel-testing-showcase](https://github.com/amillanaol/laravel-testing-showcase)**: Laravel 12.x task management API showcasing 4 levels of test coverage with PHPUnit, Docker, GitHub Actions, and MySQL/SQLite support.
 - **[amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
 - **[amillanaol/workflows-n8n-kits-json_automatizaciones](https://github.com/amillanaol/workflows-n8n-kits-json_automatizaciones)**: Plantillas N8N Workflows
