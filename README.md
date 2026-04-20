@@ -1,5 +1,5 @@
 ## ✨ Soluciones propias
-- **[amillanaol/interactive-git-versioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git.
+- **[amillanaol/interactive-git-versioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git potenciado con IA.
 - **[amillanaol/whisper-transcriptor](https://github.com/amillanaol/whisper-transcriptor)**: Herramienta para traducción automática de multimedia utilizando Whisper.
 - **[amillanaol/node-webhook-receiver](https://github.com/amillanaol/node-webhook-receiver)**: Receptor de eventos para integraciones ágiles.
 - **[amillanaol/python-fastapi-showcase](https://github.com/amillanaol/python-fastapi-showcase)**: API REST con FastAPI, Arquitectura Limpia y DDD. Diseño en capas, Docker, migraciones de Alembic y pruebas estructuradas.
