@@ -1,6 +1,11 @@
 ## 🚀 Mis Proyectos
 
+[![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=amillanaol&theme=default&hide_title=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amillanaol&theme=default&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ✨ Soluciones Propias
+
 - **[amillanaol/interactive-git-versioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git potenciado con IA.
 - **[amillanaol/whisper-transcriptor](https://github.com/amillanaol/whisper-transcriptor)**: Herramienta para traducción automática de multimedia utilizando Whisper.
 - **[amillanaol/node-webhook-receiver](https://github.com/amillanaol/node-webhook-receiver)**: Receptor de eventos para integraciones ágiles.
@@ -10,6 +15,7 @@
 - **[amillanaol/flask-inventory-api](https://github.com/amillanaol/flask-inventory-api)**: Sistema de gestión de inventario desarrollado con Flask, PostgreSQL y Bootstrap 5.
 
 ### 🏗 En Desarrollo
+
 - **[amillanaol/laravel-testing-showcase](https://github.com/amillanaol/laravel-testing-showcase)**: Laravel 12.x task management API showcasing 4 levels of test coverage with PHPUnit, Docker, GitHub Actions, and MySQL/SQLite support.
 - **[amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
@@ -19,7 +25,7 @@
 
 ---
 
-## 📬 Feedback Welcome!
+## 📬 Feedback Welcome
 
 [ES] ¡Acepto ideas, correcciones y sugerencias! Tu aporte me ayuda a mejorar.
 
@@ -33,4 +39,3 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/amillanaol)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/amillanaol)
-
