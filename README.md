@@ -10,13 +10,9 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 - Contenerizo aplicaciones con Docker para despliegue reproducible
 - Implemento testing estructurado (PHPUnit, pytest)
 
----
-
-## 📊 Actividad Reciente
-
-![GitHub Heatmap](https://github-commit-map.yzzi.icu/api/contributions/amillanaol/svg?from=2026-01-01) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)
-
 ## 🚀 Mis soluciones en Github
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)
 
 ### 🐍 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amillanaol/interactive-git-versioneer)
 
@@ -60,6 +56,9 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 - **[amillanaol/node-projects-toolkit](https://github.com/amillanaol/node-projects-toolkit)**: Referencia práctica de patrones backend en Node.js — desde Express hasta TypeScript e integraciones con MongoDB — con base en experiencia de implementación real.
 - **[amillanaol/b2b-nestjs-matching_microservices_playground](https://github.com/amillanaol/b2b-nestjs-matching_microservices_playground)**: NestJS monorepo implementing a B2B matching platform using Clean Architecture + DDD + Hexagonal (ports & adapters). Four independent TCP microservices: API Gateway, Auth, Companies, and Matching with Redis cache.
 
+## 📊 Actividad Reciente
+
+![GitHub Heatmap](https://github-commit-map.yzzi.icu/api/contributions/amillanaol/svg)
 
 ## 💖 Support My Work
 
