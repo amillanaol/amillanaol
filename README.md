@@ -1,7 +1,7 @@
 ## 🚀 Mis Proyectos
 
 [![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=amillanaol&theme=default&hide_title=true)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amillanaol&theme=default&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amillanaol&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✨ Soluciones Propias
