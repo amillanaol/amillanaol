@@ -1,5 +1,8 @@
 # 👨‍💻 Sobre Mí
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/amillanaol)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/amillanaol)
+
 Desarrollador de software con experiencia en backend y automatización.
 
 Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
@@ -12,9 +15,9 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 
 ## 🚀 Mis soluciones en Github
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)
-
-### 🐍 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amillanaol/interactive-git-versioneer)
+<a href="https://github.com/amillanaol/interactive-git-versioneer">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" />
+</a>
 
 - **[amillanaol/interactive-git-versioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git potenciado con IA.
 - **[amillanaol/python-fastapi-showcase](https://github.com/amillanaol/python-fastapi-showcase)**: API REST con FastAPI, Arquitectura Limpia y DDD. Diseño en capas, Docker, migraciones de Alembic y pruebas estructuradas.
@@ -22,27 +25,37 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 - **[amillanaol/flask-inventory-api](https://github.com/amillanaol/flask-inventory-api)**: Sistema de gestión de inventario desarrollado con Flask, PostgreSQL y Bootstrap 5.
 
 
-### 🐘 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/amillanaol/laravel-testing-showcase)
+<a href="https://github.com/amillanaol/laravel-testing-showcase">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="80" />
+</a>
 
 - **[amillanaol/laravel-testing-showcase](https://github.com/amillanaol/laravel-testing-showcase)**: Laravel 12.x task management API showcasing 4 levels of test coverage with PHPUnit, Docker, GitHub Actions, and MySQL/SQLite support.
 
 
-### 🦀 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/amillanaol/shopcore-pos)
+<a href="https://github.com/amillanaol/shopcore-pos">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="135" />
+</a>
 
 - **[amillanaol/shopcore-pos](https://github.com/amillanaol/shopcore-pos)**: Sistema de Punto de Venta con interfaz Web, conectado a PostgreSQL.
 
 
-### ⚡ [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/amillanaol/whisper-transcriptor)
+<a href="https://github.com/amillanaol/whisper-transcriptor">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" width="130" />
+</a>
 
 - **[amillanaol/whisper-transcriptor](https://github.com/amillanaol/whisper-transcriptor)**: Herramienta para traducción automática de multimedia utilizando Whisper.
 
 
-### 🟨 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/amillanaol/node-webhook-receiver)
+<a href="https://github.com/amillanaol/node-webhook-receiver">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" width="135" />
+</a>
 
 - **[amillanaol/node-webhook-receiver](https://github.com/amillanaol/node-webhook-receiver)**: Receptor de eventos para integraciones ágiles.
 
 
-### ☕ [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/amillanaol/next-spring-tracker)
+<a href="https://github.com/amillanaol/next-spring-tracker">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="85" />
+</a>
 
 - **[amillanaol/NextSpringTracker](https://github.com/amillanaol/NextSpringTracker)**: Full-stack task management app built with Next.js 14, React, Java Spring Boot and PostgreSQL. Features JWT authentication, CRUD operations and responsive UI.
 
@@ -60,9 +73,5 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 
 ![GitHub Heatmap](https://github-commit-map.yzzi.icu/api/contributions/amillanaol/svg)
 
-## 💖 Support My Work
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&card_width=885&langs_count=10)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/amillanaol)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/amillanaol)
-
-![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=amillanaol&theme=default&hide_title=true)
