@@ -1,7 +1,15 @@
 ## 🚀 Sobre mí en Github
 
 [![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=amillanaol&theme=default&show_icons=true&hide_rank=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amillanaol&theme=default)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
+**Lenguajes Principales**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
 [![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=amillanaol&theme=default)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ### ✨ Soluciones Propias
