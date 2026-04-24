@@ -1,6 +1,8 @@
-## 🚀 Sobre mi actividad en Github
+## 🚀 Sobre mí en Github
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=amillanaol&theme=default&show_icons=true&hide_rank=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amillanaol&theme=default)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=amillanaol&theme=default)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ### ✨ Soluciones Propias
 
