@@ -1,4 +1,6 @@
-## ✨ Soluciones propias
+## 🚀 Mis Proyectos
+
+### ✨ Soluciones Propias
 - **[amillanaol/interactive-git-versioneer](https://github.com/amillanaol/interactive-git-versioneer)**: Automatización de versiones para flujos de trabajo en Git potenciado con IA.
 - **[amillanaol/whisper-transcriptor](https://github.com/amillanaol/whisper-transcriptor)**: Herramienta para traducción automática de multimedia utilizando Whisper.
 - **[amillanaol/node-webhook-receiver](https://github.com/amillanaol/node-webhook-receiver)**: Receptor de eventos para integraciones ágiles.
@@ -7,8 +9,7 @@
 - **[amillanaol/NextSpringTracker](https://github.com/amillanaol/NextSpringTracker)**: Full-stack task management app built with Next.js 14, React, Java Spring Boot and PostgreSQL. Features JWT authentication, CRUD operations and responsive UI.
 - **[amillanaol/flask-inventory-api](https://github.com/amillanaol/flask-inventory-api)**: Sistema de gestión de inventario desarrollado con Flask, PostgreSQL y Bootstrap 5.
 
-## 🏗 En Desarrollo
-
+### 🏗 En Desarrollo
 - **[amillanaol/laravel-testing-showcase](https://github.com/amillanaol/laravel-testing-showcase)**: Laravel 12.x task management API showcasing 4 levels of test coverage with PHPUnit, Docker, GitHub Actions, and MySQL/SQLite support.
 - **[amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
@@ -30,13 +31,6 @@
 
 ## 💖 Support My Work
 
-**[ES] Español:**  
-Si alguna solución te resultó útil, ¡considera invitarme un café para que pueda seguir creando y compartiendo más! ☕
-
-**[EN] English:**  
-If you found any of my solutions useful, please consider buying me a coffee so I can keep creating and sharing more! ☕
-
-**[BR] Português:**  
-Se alguma das minhas soluções foi útil, considere me pagar um café para que eu possa continuar criando e compartilhando mais! ☕
-
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/amillanaol)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/amillanaol)
+
