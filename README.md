@@ -7,11 +7,9 @@ Desarrollador de software con experiencia en backend y automatización.
 
 Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 
-- Diseño y desarrollo APIs REST con FastAPI, Laravel y Node.js
-- Implemento arquitecturas basadas en DDD, Clean Architecture y patrones hexagonales
-- Automatizo flujos de trabajo con scripts en Python y PowerShell
-- Contenerizo aplicaciones con Docker para despliegue reproducible
-- Implemento testing estructurado (PHPUnit, pytest)
+- Diseño y desarrollo software usando Docker para despliegue reproducible
+- Implemento arquitecturas basadas en architectura limpia y patrones de diseño hexagonales
+- Automatizo flujos de trabajo con scripts
 
 ## 🚀 Mis soluciones en Github
 
