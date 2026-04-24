@@ -10,9 +10,11 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 - Contenerizo aplicaciones con Docker para despliegue reproducible
 - Implemento testing estructurado (PHPUnit, pytest)
 
-## Languages
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)
+## 📊 Actividad Reciente
+
+![GitHub Heatmap](https://github-commit-map.yzzi.icu/api/contributions/amillanaol/svg?from=2026-01-01) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)
 
 ## 🚀 Mis soluciones en Github
 
