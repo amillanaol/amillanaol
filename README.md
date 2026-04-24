@@ -59,7 +59,7 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 
 ---
 
-## 🛠 En Desarrollo
+## 🚧 En Desarrollo
 
 - **[amillanaol/chatbot-devops-pipeline](https://github.com/amillanaol/chatbot-devops-pipeline)**: Chatbot.
 - **[amillanaol/powerbi-kits-analisis](https://github.com/amillanaol/powerbi-kits-analisis)**: Plantillas PowerBI/DAX
