@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/amillanaol/shopcore-pos)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/amillanaol/whisper-transcriptor)
 
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&layout=compact)
 
 ---
 
@@ -44,4 +44,4 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/amillanaol)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/amillanaol)
 
-[![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=amillanaol&theme=default&hide_title=true)](https://git.io/streak-stats)
+![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=amillanaol&theme=default&hide_title=true)
