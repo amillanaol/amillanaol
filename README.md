@@ -67,9 +67,7 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 - **[amillanaol/node-projects-toolkit](https://github.com/amillanaol/node-projects-toolkit)**: Referencia práctica de patrones backend en Node.js — desde Express hasta TypeScript e integraciones con MongoDB — con base en experiencia de implementación real.
 - **[amillanaol/b2b-nestjs-matching_microservices_playground](https://github.com/amillanaol/b2b-nestjs-matching_microservices_playground)**: NestJS monorepo implementing a B2B matching platform using Clean Architecture + DDD + Hexagonal (ports & adapters). Four independent TCP microservices: API Gateway, Auth, Companies, and Matching with Redis cache.
 
-## 📊 Actividad Reciente
+## 📊 Actividad reciente
 
-![GitHub Heatmap](https://github-commit-map.yzzi.icu/api/contributions/amillanaol/svg)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&card_width=885&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&card_width=885&langs_count=10)
 
