@@ -3,9 +3,7 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/amillanaol)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/amillanaol)
 
-Desarrollador de software con experiencia en backend y automatización.
-
-Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
+Desarrollador de software con arquitectura limpia en backend y automatización.
 
 - Diseño y desarrollo software usando Docker para despliegue reproducible
 - Implemento arquitecturas basadas en architectura limpia y patrones de diseño hexagonales
@@ -56,6 +54,13 @@ Construyo soluciones que conectan arquitectura limpia con resultados tangibles.
 </a>
 
 - **[amillanaol/NextSpringTracker](https://github.com/amillanaol/NextSpringTracker)**: Full-stack task management app built with Next.js 14, React, Java Spring Boot and PostgreSQL. Features JWT authentication, CRUD operations and responsive UI.
+
+<a href="https://github.com/amillanaol/n8n-workflows">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" width="80" />
+</a>
+
+- **[amillanaol/n8n-workflows](https://github.com/amillanaol/n8n-workflows)**: Repositorio organizado de workflows n8n para almacenar, compartir y reutilizar automatizaciones de negocio.
+
 
 ---
 
