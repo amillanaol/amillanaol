@@ -3,7 +3,7 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/amillanaol)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/amillanaol)
 
-Desarrollador de software con arquitectura limpia en backend y automatización.
+Desarrollador de software con conocimiento en backend y automatización usando arquitectura limpia.
 
 - Diseño y desarrollo software usando Docker para despliegue reproducible
 - Implemento arquitecturas basadas en architectura limpia y patrones de diseño hexagonales
@@ -71,8 +71,3 @@ Desarrollador de software con arquitectura limpia en backend y automatización.
 - **[amillanaol/workflows-n8n-kits-json_automatizaciones](https://github.com/amillanaol/workflows-n8n-kits-json_automatizaciones)**: Plantillas N8N Workflows
 - **[amillanaol/node-projects-toolkit](https://github.com/amillanaol/node-projects-toolkit)**: Referencia práctica de patrones backend en Node.js — desde Express hasta TypeScript e integraciones con MongoDB — con base en experiencia de implementación real.
 - **[amillanaol/b2b-nestjs-matching_microservices_playground](https://github.com/amillanaol/b2b-nestjs-matching_microservices_playground)**: NestJS monorepo implementing a B2B matching platform using Clean Architecture + DDD + Hexagonal (ports & adapters). Four independent TCP microservices: API Gateway, Auth, Companies, and Matching with Redis cache.
-
-## 📊 Actividad reciente
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amillanaol&theme=default&card_width=885&langs_count=10)
-
