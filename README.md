@@ -59,7 +59,7 @@ Desarrollador de software con conocimiento en backend y automatización usando a
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" width="80" />
 </a>
 
-- **[amillanaol/n8n-workflows](https://github.com/amillanaol/n8n-workflows)**: Repositorio organizado de workflows n8n para almacenar, compartir y reutilizar automatizaciones de negocio.
+- **[amillanaol/n8n-workflows](https://github.com/amillanaol/n8n-workflows)**: Repositorio técnico de workflows n8n para diseñar, documentar y reutilizar automatizaciones de negocio basadas en integraciones y flujos modulares.
 
 
 ---
